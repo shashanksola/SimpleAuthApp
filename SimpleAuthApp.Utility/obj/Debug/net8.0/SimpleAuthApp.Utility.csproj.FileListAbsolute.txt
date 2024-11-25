@@ -1,0 +1,12 @@
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\bin\Debug\net8.0\SimpleAuthApp.Utility.deps.json
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\bin\Debug\net8.0\SimpleAuthApp.Utility.dll
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\bin\Debug\net8.0\SimpleAuthApp.Utility.pdb
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.csproj.AssemblyReference.cache
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.AssemblyInfoInputs.cache
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.AssemblyInfo.cs
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.csproj.CoreCompileInputs.cache
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.dll
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\refint\SimpleAuthApp.Utility.dll
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\SimpleAuthApp.Utility.pdb
+S:\My Files\Chubb\Code\SimpleAuth\SimpleAuthApp.Utility\obj\Debug\net8.0\ref\SimpleAuthApp.Utility.dll

@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Services\\SimpleAuthApp.Services.csproj": {}
+  },
+  "projects": {
+    "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Services\\SimpleAuthApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Services\\SimpleAuthApp.Services.csproj",
+        "projectName": "SimpleAuthApp.Services",
+        "projectPath": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Services\\SimpleAuthApp.Services.csproj",
+        "packagesPath": "C:\\Users\\Shashank Sola\\.nuget\\packages\\",
+        "outputPath": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shashank Sola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Utility\\SimpleAuthApp.Utility.csproj": {
+                "projectPath": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Utility\\SimpleAuthApp.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Utility\\SimpleAuthApp.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Utility\\SimpleAuthApp.Utility.csproj",
+        "projectName": "SimpleAuthApp.Utility",
+        "projectPath": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Utility\\SimpleAuthApp.Utility.csproj",
+        "packagesPath": "C:\\Users\\Shashank Sola\\.nuget\\packages\\",
+        "outputPath": "S:\\My Files\\Chubb\\Code\\SimpleAuth\\SimpleAuthApp.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shashank Sola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
